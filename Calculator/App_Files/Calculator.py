@@ -68,7 +68,7 @@ def theme(mode):
 root = Tk()
 root.title("Calculator")
 root.geometry('275x350')
-root.iconbitmap("C:/_Python_Projects/Calculator/App_Files/icon_calculator.ico")
+# root.iconbitmap("C:/_Python_Projects/Calculator/App_Files/icon_calculator.ico")
 
 # layout of calculator buttons
 calc_buttons = ["1", "2", "3", "+",
